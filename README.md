@@ -1,2 +1,2 @@
 # SimpleServer
-Extension of Python HTTP server for GET and POST methods
+Extension for Python HTTP server to add GET and POST methods
